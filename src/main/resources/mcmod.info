@@ -1,0 +1,21 @@
+[
+{
+  "modid": "TheSacredEffect",
+  "name": "The Sacred Effect",
+  "description": "Believe, Behold, Become.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "www.youtube.com/theamazingdarkzod",
+  "updateUrl": "",
+  "authorList": [
+    "Darkzod"
+  ],
+  "credits": "Special thanks to Pahimar.",
+  "logoFile": "assets/thesacredeffect/logoFile.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
